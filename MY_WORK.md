@@ -30,13 +30,11 @@
 
 > ⚠️ **WARNING:** Fill this in first. Your name and ID must match the student ID you set in `SchedulerSimulationSync.java` (line 304) and the one you say in your video.
 
-| Field | Your Answer |
-|-------|-------------|
-| **Full Name** | [Ghala Abdullaziz Al-homaid] |
-| **Student ID** | [446051393] |
-| **University Email** | [446051393@std.psau.edu.sa] |
-| **GitHub Username** | [ENGGhala1] |
-| **Repository Link** | [https://github.com/ENGGhala1/OS-Assignment3-Ghala-Abdulaziz] |
+| **Full Name** | Ghala Abdullaziz Al-homaid |
+| **Student ID** | 446051393 |
+| **University Email** | 446051393@std.psau.edu.sa |
+| **GitHub Username** | ENGGhala1 |
+| **Repository Link** | https://github.com/ENGGhala1/OS-Assignment3-Ghala-Abdulaziz |
  
 ---
 
@@ -350,11 +348,11 @@ What I would do differently next time: I would make smaller changes, test each f
 
 Verification block of the **original starter**:
 ```
-[Context switches expected 41 observed 0 ✘
+Context switches expected 41 observed 0 ✘
 Completed processes expected 20 observed 0 ✘
 Total service time expected 152157 observed 0 ✘
 Busy-waiting polls expected 0 observed 0 ✔
-At least one check failed ...]
+At least one check failed ...
 ```
 
 Verification block of **my final version**:
